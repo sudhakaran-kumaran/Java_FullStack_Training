@@ -1,0 +1,12 @@
+Day-3:
+
+1st Half:
+
+Task assigned me to create twitter webpage using html and css.
+I have tried to execute it .Slowly I learnt some css propertities.
+
+2nd half:
+
+Again assigned me to create random webpage Interface.
+Again I learnt some more css propertities
+Now,I am able to create a webpage using html and css
