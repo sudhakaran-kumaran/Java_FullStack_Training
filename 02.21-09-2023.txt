@@ -1,0 +1,16 @@
+Day2:
+
+Today I have newly learned some Html tags and css selectors.
+
+I have create a site by using all html input tags and all the elements.
+
+CSS selctors are:
+        * Id selectors      
+        * Class selectors
+        * Element selector
+        * Attribute selectors
+
+Some css properties:
+            *nth chid selectors
+            *padding
+            *margin
