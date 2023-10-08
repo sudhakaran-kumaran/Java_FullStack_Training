@@ -1,0 +1,21 @@
+Day 11:
+
+Built an web application with the following requirements
+--------------------------------------------------------
+    *A page with products (product details and Add to cart button)
+    *Cart page with items and remove button 
+    *Quantity count with + and - buttons
+
+ 
+
+ 
+
+Form validation for the following fields
+----------------------------------------
+    *Name 
+    *Email 
+    *Phone Number
+    *Radio button 
+    *Check Box 
+    *Drop down 
+    *submit button
