@@ -1,7 +1,47 @@
 Day 7:
 
-Today.Trainer gave us a task to do.
-I have learnt somemore concepts in javascript.
-Trainer assigned me some exercise to do.I did those exercises.
-Atlast Trainer taught us Ecommerce website
+Javascript Topics
+-----------------
+    *getElementById 
+    *getElementByClass 
+    *getElementByTag 
+    *querySelector 
+    *window 
+    *onload 
+    *clickhandler() function
+    *Two way binding 
+    *parseInt
 
+ 
+
+--> Worked on some example problems using javascript.
+
+ 
+
+ 
+
+To Build an E-Commerce website with the following reqirements 
+------------------------------------------------------------
+    *Admin 
+        -Login 
+        -Sign Up 
+        -Products 
+            1.Add Products 
+            2.Remove Products
+            3.View Products 
+        -Orders 
+            1.No.of Orders 
+            2.No.of Orders 
+            3.Status of the order 
+    *User 
+        -Login 
+        -Sign Up 
+        -Products 
+            1.View Products 
+            2.Add/Buy Products 
+        -Cart 
+            1.Add Products 
+            2.Checkout 
+        -Orders 
+            1.View Orders 
+            2.Status
