@@ -1,0 +1,42 @@
+Day 13:
+
+JQuery
+------
+    *var 
+    *$
+    *ready
+
+
+JQuery task 
+-----------
+Form validation using JQuery for the following fields 
+    1.text 
+    2.email 
+    3.phone number 
+    4.radio button 
+    5.check box 
+    6.drop down
+    
+
+TypeScript 
+----------
+--> How to install TypeScript.
+--> How to convert TypeScript to JavaScript and run it in npm (node package manager).
+
+ 
+
+TypeScript concepts 
+-------------------
+    *Datatypes 
+        1.string 
+        2.null 
+        3.number 
+        4.boolean 
+        5.undefined 
+        6.any  
+        7.never
+    *Arrays 
+    *Function and return types (void,string...)
+    *Tuples 
+    *Enums 
+    *Types and Interface
