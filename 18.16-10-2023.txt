@@ -1,0 +1,31 @@
+Day 18:
+
+Angular Concepts 
+----------------
+    *Template driven forms 
+        -It is the declarative way to create forms.
+        -Directives are used for form controls.
+            1.ngModel 
+            2.ngForm 
+            3.ngSubmit 
+        -Template driven directives are used for validation.
+            1.Max length 
+            2.Min length 
+            3.Required
+            
+     *Reactive forms 
+        -It is a programmatic way to create forms.
+        -It uses [formControl].
+        
+    *OnInit interface and ngOnInit method.
+    *Router navigate and replaceUrl.
+
+Task 
+----
+1. To build an E-commerce application using angular and add routing for the following requirements.
+    *Login with form validation.
+    *Register with form validation.
+    *Home 
+    *Navbar 
+    *Cart 
+    *Orders
