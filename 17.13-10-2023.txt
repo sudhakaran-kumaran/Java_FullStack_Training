@@ -1,0 +1,40 @@
+Day 17 : 
+
+Angular Concepts 
+----------------
+    *Routing 
+        -> It enables navigation by explaining the browser URL to change the view.
+        
+        Steps to achieve Routing in angular 
+        -----------------------------------
+        1. Define the routes in the app-routing module file by adding the path and the component.
+        2. Add the router-outlet in the app component html file.
+        3. Add the router link in the respective page to which routing should be applied by 
+           adding the path.
+           
+        ->Router Link Active to show the active link.
+        ->Router Link Active Options.
+
+*Angular Pipes.
+
+--> Took an assessment for javascript.
+
+Tasks 
+-----
+1. To build an E-commerce application using angular and add routing for the following requirements.
+    *Login
+    *Register 
+    *Home 
+    *Navbar 
+    *Cart 
+    *Orders
+
+2. To build an application for forms using angular for the following fields and operations.
+    *Name 
+    *Phone Number 
+    *E-mail 
+    *Operations 
+        1.Add 
+        2.Edit 
+        3.Delete 
+        4.View
