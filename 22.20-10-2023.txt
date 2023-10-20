@@ -1,0 +1,22 @@
+Day 22:
+
+Java
+    -data types
+        primitive
+        non-primitive
+
+ 
+
+    -Errors
+        -integer too long - change the type
+        -printing an array prints the adress ofthe array
+        -printing an array of char concats the elemts and prints it
+    -forloops
+    -while/do while loops
+    -Condition statements
+    -classes & methods
+
+ 
+
+Task
+    -ATM using classes and methods
