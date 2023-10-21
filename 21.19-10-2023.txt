@@ -1,0 +1,22 @@
+Day 21:
+
+Angular concepts 
+---------------
+    *URL query params 
+        -Used to pass data between components or to interact with the URL.
+        -The "ActivatedRoute" class is used for this.
+        
+    *Lottie - for animation.
+    
+    *CanDeactivate 
+        -It is a guard used to control the navigation.
+        -It is used to notify/get confirmation from user.
+
+->Pagination
+
+Task 
+----
+To add the following additional requirements to the Angular E-commerce web application.
+    *To add quantity to Cart.
+    *To get user confirmation before checking out in cart.
+    *To user URL query params for product description.
