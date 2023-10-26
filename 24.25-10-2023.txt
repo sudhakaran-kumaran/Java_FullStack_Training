@@ -1,0 +1,37 @@
+Day 24:
+
+Java Coding Exercises:
+
+-> Array 
+-> Array Subset
+-> CountOccurences a character in a string
+-> CountOccurences a sub-string in a string
+-> Fibonacci series
+-> Palindrome number
+-> Prime number
+-> Remove Vowels in a string
+-> Number pattern
+-> Star pattern
+
+Java Concepts:
+
+-> Threads
+-> Collections:
+       -> ArrayList
+       -> LinkedList
+       -> HashSet
+       -> HashMap
+       -> TreeSet
+
+-> File Handling
+      -> Deadlock
+-> Wrapper class
+-> Annotations:
+     -> BeforeAll
+     -> AfterAll
+     -> BeforeEach
+     -> AfterEach
+
+
+
+
