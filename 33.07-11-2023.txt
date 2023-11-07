@@ -1,0 +1,45 @@
+Day 33:
+
+-> Tightly coupling,Loosly coupling.
+
+-> Inversion of Control
+
+-> Dependency Injection :
+              -> Constructor Injection
+
+-> @Component
+   @Autowired
+   @Primary
+   @Qualifier
+
+-> CDI 
+    -> @Named
+    -> @Inject
+
+-> @Configuration
+   @Componentscan
+   @SpringApplication
+
+-> Scope
+     -> Singleton
+     -> Prototype
+
+-> LifeCycle of bean
+     -> PostConstruct
+     -> PreDestroy
+
+-> AnnotationApplicationContext
+
+-> @RestController
+   @Requestbody
+   @Pathvariable
+
+-> @GetMapping
+   @PostM
+   @DeleteM
+
+-> DataSql
+
+-> JDBCTemplate
+
+-> Application Property
