@@ -1,0 +1,22 @@
+Day 37:
+
+Restaurant Ordering System
+
+--------------------------
+
+*Started with backend part of the project by creating the following 
+        -> Models 
+            - User (Admin, User)
+            - Cart
+            - Category
+            - Dish 
+            - Order 
+            - OrderStatus
+            - TableDetails
+        -> Controller 
+        -> Request and Response Model
+        -> Security configuration 
+        -> Exception 
+        -> Service 
+        -> DTO 
+        -> Data loader 
