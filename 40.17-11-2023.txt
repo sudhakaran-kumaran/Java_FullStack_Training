@@ -1,0 +1,15 @@
+Day 40:
+
+Restaurant Ordering System 
+--------------------------
+    *Completed the backend part for sprint 1 with the following 
+        - Dishes
+        - Add to Cart
+        - Cart Details
+        - User Profile 
+        - Auth (Login/Register)
+
+    *Started with the UI part
+        - Login 
+        - Register 
+        - Home 
