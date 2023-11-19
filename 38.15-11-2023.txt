@@ -1,0 +1,19 @@
+Day 38:
+
+Restaurant Ordering System
+--------------------------
+    
+        -> Controller
+            - Admin Category Controller
+            - Admin Dish Controller
+            - Auth Controller
+            - Cart Controller 
+            - Dish Controller
+            
+            
+        -> Add HttpRequests for the following in the controller
+                1. Login with validation
+                2. Register with validation
+                3. Add/Edit/Delete/Get Category (Admin) 
+                4. Add/Edit/Delete/Get Dishes (Admin)
+            
