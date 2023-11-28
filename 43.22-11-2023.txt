@@ -1,0 +1,14 @@
+Day 43:
+
+Restaurant Ordering System
+--------------------------
+
+-> Continued with the integration of back end and front end.
+         -> Integrated all the GET methods
+             - GET Dishes
+             - GET Categories
+             - GET UserDetails
+             - GET TableDetails
+        
+        -> Integrated post method
+             - POST Categories
