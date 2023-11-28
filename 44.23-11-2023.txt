@@ -1,0 +1,16 @@
+Day 44:
+
+Restaurant Ordering System
+--------------------------
+
+-> Continued with integration part of backend 
+       -> Integrated all the POST methods
+             - POST Categories
+             - POST Dishes
+             - Register
+
+        -> Integrated all the PUT methods
+             - PUT Categories
+             - PUT Dishes
+
+        
