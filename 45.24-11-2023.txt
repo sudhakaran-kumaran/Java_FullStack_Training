@@ -1,0 +1,16 @@
+Day 45:
+
+Restaurant Ordering System
+--------------------------
+
+-> Continued with the integration part of backend and front end
+           -> Integrated POST methods
+                   - POST Dishes
+
+           -> Integrated DELETE methods
+                   - DELETE Categories
+                   - DELETE Dishes
+
+        - Enchanced routes for the component.
+        - Enchanced logics.
+        - Stored routing details of the user for stopping page navigation after refresh.
