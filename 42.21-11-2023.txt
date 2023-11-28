@@ -1,0 +1,10 @@
+Day 42:
+
+Restaurant Ordering System 
+--------------------------
+
+-> Added Form validation for every forms
+  1. Login
+  2. Register
+  3. AdminCategory form
+  4. AdminDish form 
