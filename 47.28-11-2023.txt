@@ -1,0 +1,15 @@
+Day 47:
+
+Restaurant Ordering System
+--------------------------
+
+-> Continued with integration part of backend and frontend 
+                -> Integrated POST methods
+                        - ADD TO CART 
+                        - View Cart page
+
+                -> Started Checkout and placeOrder process
+                -> Generated Form for TableId details
+            
+            - Enchanced UI for few pages
+            

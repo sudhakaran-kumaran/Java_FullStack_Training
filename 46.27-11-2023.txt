@@ -1,0 +1,9 @@
+Day 46:
+
+Restaurant Ordering System
+--------------------------
+
+        - Saved images in the server and and added the file name to the database.
+        - Accessed the images from the database and loaded it in the front end.
+        - Made few changes in the UI.
+        - Validated for few forms
