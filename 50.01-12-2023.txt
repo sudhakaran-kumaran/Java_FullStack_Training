@@ -1,0 +1,18 @@
+Day 50:
+
+Restaurant Ordering System
+--------------------------
+
+    -> Enchanced styles for the UI.
+    -> Final integration and checking for the project.
+    -> Added Readme file in the github.
+    -> Recorded the project working model video.
+
+
+
+Some important topics
+---------------------
+
+  -> Structs
+  -> Lazy Loading
+  -> Custom Validation
